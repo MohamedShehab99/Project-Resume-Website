@@ -1,0 +1,95 @@
+.top-container {
+    margin-top: 0px;
+    background-color: #08c2ff;
+    padding-top: 50px;
+   
+}
+body {
+    margin: 0;
+}
+.montserrat-font {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+  }
+    
+
+.dm-serif-display-regular {
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    
+  }
+  
+  .dm-serif-display-regular-italic {
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+
+  
+  .middle-container {
+    margin-top: 0px;
+    background-color: white;
+   
+  }
+  .middle-container h2 {
+    font-family: "DM Serif Display", serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #006BFF;
+  }
+  
+  .middle-container h3 {
+    font-family: "Montserrat", serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #006BFF;
+  }
+ 
+  .border-custom {
+    border-color: #08C2FF !important;
+  }
+
+  .middle-container1 {
+    margin-top: 0px;
+    background-color: 08C2FF;
+   
+  }
+  .middle-container1 h2 {
+    font-family: "DM Serif Display", serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #006BFF;
+  }
+  .circle {
+    border: 5px solid #08C2FF;  
+    border-radius: 50%; 
+  }
+  .a {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    
+  }
+ .custom-button {
+    background-color: #BCF2F6;
+ }
+ .about-title {
+    font-family: "DM Serif Display", serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #006BFF;
+ }
+ .custom-footer {
+    background-color: #08C2FF;
+ }
+ .bottom-container {
+    background-color: #08C2FF;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+ }
